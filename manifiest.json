@@ -1,0 +1,20 @@
+{
+    "name": "Aplicación web Progresiva",
+    "short_name": "PWA",
+    "start_url": "./index.html" ,
+    "display": "standalone",
+    "theme_color": "#FFDF00",
+    "background_color": "#FFDF00",
+    "icons": [
+        {
+            "src": "./iconos/foco1.png", 
+            "size": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./iconos/foco2.png", 
+            "size": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
